@@ -150,16 +150,16 @@ This dashboard enables logistics management to:
 # 🖼 Dashboard Preview
 
 ## Executive Dashboard
-(https://github.com/Shivam4410/SwiftRoute-Logistics-Dashboard/blob/main/SwiftRoute%20Logistics%20Dashboard.png)
+![Dashboard Overview](https://github.com/Shivam4410/SwiftRoute-Logistics-Dashboard/blob/main/SwiftRoute%20Logistics%20Dashboard.png)
 
 ## Drivers Overview
-(https://github.com/Shivam4410/SwiftRoute-Logistics-Dashboard/blob/main/Drivers%20Overview.png)
+![Dashboard Overview](https://github.com/Shivam4410/SwiftRoute-Logistics-Dashboard/blob/main/Drivers%20Overview.png)
 
 ## Hubs Overview
-(https://github.com/Shivam4410/SwiftRoute-Logistics-Dashboard/blob/main/Hubs%20Overview.png)
+![Dashboard Overview](https://github.com/Shivam4410/SwiftRoute-Logistics-Dashboard/blob/main/Hubs%20Overview.png)
 
 ## Vehicles Overview
-(https://github.com/Shivam4410/SwiftRoute-Logistics-Dashboard/blob/main/Vehicles%20Overview.png)
+![Dashboard Overview](https://github.com/Shivam4410/SwiftRoute-Logistics-Dashboard/blob/main/Vehicles%20Overview.png)
 
 ---
 
