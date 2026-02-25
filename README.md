@@ -177,11 +177,11 @@ This dashboard enables logistics management to:
 # 👨‍💻 Developed By
 
 **Shivam**  
-Data Analytics Enthusiast  
+Aspiring Data Analyst | Skilled in Power BI, SQL, Python & Excel  
 
-📧 analyzer441@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/shivam-77b678249/
+📧 Email: analyzer441@gmail.com  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/shivam-77b678249/)  
+📊 [Live Dashboard](https://app.powerbi.com/groups/c8097d9c-ba3b-4e59-83a6-12d701f44a6f/reports/2ff51ed8-fcf0-4606-bf2b-24c95e69c686/ca9b04c80a871cec116a?experience=power-bi)
 
 ---
-
 ⭐ If you found this project interesting, consider giving it a star!
